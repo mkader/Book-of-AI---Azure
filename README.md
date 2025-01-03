@@ -1,4 +1,4 @@
-# Book-of-AI---Azure
+# Book of AI - Azure
 
 ## AZURE AI CLI FEATURES
   1. Access AI services from the command line.
