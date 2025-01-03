@@ -11,8 +11,8 @@
  1. Azure AI Model Catalog!
  1. GitHub Model Marketplace!
  1. ONNX1 + Phi-32 models!
-   1. ONNX is an open format built to represent ML models.
-   1. Phi-3 is a family of open AI models developed by Microsoft.  
+     1. ONNX is an open format built to represent ML models.
+     1. Phi-3 is a family of open AI models developed by Microsoft.  
 
 CONTENT FOR ALL JOURNEY STAGES
  1. Tutorials for beginners and experts.
