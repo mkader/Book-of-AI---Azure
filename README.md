@@ -1,7 +1,7 @@
 # Book-of-AI---Azure
 
 ## AZURE AI CLI FEATURES
-  1.Access AI services from the command line.
+  1. Access AI services from the command line.
   1. Learn + experiment w/ AI and LLM concepts.
   1. Solve real-world problems w/out writing code.
   1. Generate code samples for your projects.
