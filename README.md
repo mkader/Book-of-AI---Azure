@@ -1,4 +1,4 @@
-# Book of AI - Azure
+# <a href="https://thebookof.ai/">Book of AI - Azure</a>
 
 ## AZURE AI CLI FEATURES
   1. Access AI services from the command line.
